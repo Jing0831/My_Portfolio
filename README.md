@@ -29,7 +29,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** For this Python based project, I collected historical trading data for S&P 500 companies and ETH-USD, and filtered 10,000 twitter posts, containing the words "ETH", "Ethereum". The project includes the following steps: collecting data,explore data, modify variables, setup model, and evaluate model. My hypothesis is that companies that are highly correlated will be affected by the same possitive or negative market information, and thus they should converge in market performance. I hope to find these companies.<br>
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)<br>
 **Presentation:** [`My Presentation for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Presentation_JY.pdf)<br>
-**Report:**[`My Report for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Report_JY.pdf)<br>
+**Report:**
+           [`My Report for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Report_JY.pdf)
+         + [`Further Hotelling Test in R.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/ce8c56e0816115e6e1902d1a868ae8265e312438/Further%20Testing%20in%20R.pdf)<br>
 **Skills:** Data Collecting, Data Cleaning, EDA (exploratory data analysis), Time Series Processing, Clustering Analysis, Eblow Method, Social Media Analysis(text analysis, network analysis), Hypothesis Testing, Hoteling T^2 Testing, Data Visualization. <br>
 **Technology:** Python (urllib, ssl, pandas, numpy, datetime, sklearn, Matplotlib, R, Netlytic.<br>
 **Results:** Find a clear chain of industries related to blockchain computing resouces, and other interesting facts.<br>
