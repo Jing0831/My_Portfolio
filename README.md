@@ -2,13 +2,11 @@
 
 ## About
 
-Hi, I'm Jingyi! I have a solid banking background and hold a Master of Science (M.S.) degree in Business Statistics, as well as an MBA degree in Information Systems (Hofstra University). <br />
-I deeply appreciate the value of data analysis in my daily work, especially in formulating sales strategies, as well as evident-based management. I am always motivated and eager to learn everything!
-<br />
-This is a repository that I have created to showcase skills, share projects and track my learning progress. 
-<br />
-HAPPY CODING!
-<br>
+- 👋Hi, I'm Jingyi! I have a solid banking background and hold a Master of Science (M.S.) degree in Business Statistics, as well as an MBA degree in Information Systems (Hofstra University). <br />
+- 💞️I deeply appreciate the value of data analysis in my daily work, especially in formulating sales strategies, as well as evident-based management. 
+- 🌱I am always motivated and eager to learn everything!<br />
+- ⚡This is a repository that I have created to showcase skills, share projects and track my learning progress. <br />
+- ✨HAPPY CODING!✨<br />
   
 
 ## Table of contents
@@ -19,21 +17,22 @@ HAPPY CODING!
 	+ [Basic Python Code](#basic-python-code)
 	+ [Side Projects](#side-projects)
 - [Tableau Vizzes](#tableau-vizzes)
-- [Certificates](#certificates)
+- [Certificates](#certificates-live-and-learn)
 - [Contacts](#contacts)
+
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### ETH and S&P 500 Clustering Analysis
 
-**Description:** For this Python based project, I collected historical trading data for S&P 500 companies and ETH-USD, and filtered 10,000 twitter posts, containing the words "ETH", "Ethereum". The project includes the following steps: collecting data,explore data, modify variables, setup model, and evaluate model. My hypothesis is that companies that are highly correlated will be affected by the same possitive or negative market information, and thus they should converge in market performance. I hope to find these companies.<br />  
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)<br />    
-**Presentation:** [`My Presentation for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Presentation_JY.pdf)<br />   
-**Report:**[`My Report for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Report_JY.pdf)<br />
-**Skills:** Data Collecting, Data Cleaning, EDA (exploratory data analysis), Time Series Processing, Clustering Analysis, Eblow Method, Social Media Analysis(text analysis, network analysis), Hypothesis Testing, Hoteling T^2 Testing, Data Visualization. <br />
-**Technology:** Python (urllib, ssl, pandas, numpy, datetime, sklearn, Matplotlib, R, Netlytic.<br />
-**Results:** Find a clear chain of industries related to blockchain computing resouces, and other interesting facts.  <br />
+**Description:** For this Python based project, I collected historical trading data for S&P 500 companies and ETH-USD, and filtered 10,000 twitter posts, containing the words "ETH", "Ethereum". The project includes the following steps: collecting data,explore data, modify variables, setup model, and evaluate model. My hypothesis is that companies that are highly correlated will be affected by the same possitive or negative market information, and thus they should converge in market performance. I hope to find these companies.<br>
+**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)<br>
+**Presentation:** [`My Presentation for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Presentation_JY.pdf)<br>
+**Report:**[`My Report for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Report_JY.pdf)<br>
+**Skills:** Data Collecting, Data Cleaning, EDA (exploratory data analysis), Time Series Processing, Clustering Analysis, Eblow Method, Social Media Analysis(text analysis, network analysis), Hypothesis Testing, Hoteling T^2 Testing, Data Visualization. <br>
+**Technology:** Python (urllib, ssl, pandas, numpy, datetime, sklearn, Matplotlib, R, Netlytic.<br>
+**Results:** Find a clear chain of industries related to blockchain computing resouces, and other interesting facts.<br>
 
 
 ## Study Projects
@@ -49,15 +48,18 @@ In this section I will provide links to my github repositories containing code a
 **Repository:** <br />- JupiterLab GitHub---> [go to repo..](https://github.com/Jing0831/jupyterlab-github.git)  
 **Status:** ∞  
 
+
 ## Tableau Vizzes
 **Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/wjingyi)  
 **Status:** ∞  
 
-## Certificates [Live and Leran]
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:)<br />
-I gained a very systematic knowledge of statistics and analytical skills and graduated with honors with a 4.0 GPA in both my MBA degree and MS degree.
-Here is a list of my transcript and my certificates:
-- [My Transcript for MBA(Information Systems) and MS(Business Statistics](https://github.com/Jing0831/My_Portfolio/blob/753da078f2acd2362fe69dbb16b18e9227ad49e2/Transcript.pdf) (May 2022) (Hofstra University)
+
+## Certificates [Live and Learn]
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result.✨<br>
+I gained a very systematic knowledge of statistics and analytical skills and graduated with honors with a 4.0 GPA in both my MBA degree and MS degree.<br/>
+💞️ Here is a list of my transcript and my certificates:
+- [My Transcript for MBA(Information Systems) and MS(Business Statistics](https://github.com/Jing0831/My_Portfolio/blob/753da078f2acd2362fe69dbb16b18e9227ad49e2/Transcript.pdf) (May 2022) (Hofstra University)<br>
+
 **Status:** ∞ 
 
 
