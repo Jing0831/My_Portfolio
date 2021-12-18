@@ -61,6 +61,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 I gained a very systematic knowledge of statistics and analytical skills and graduated with honors with a 4.0 GPA in both my MBA degree and MS degree.<br/>
 💞️ Here is a list of my transcript and my certificates:
 - [My Transcript for MBA(Information Systems) and MS(Business Statistics](https://github.com/Jing0831/My_Portfolio/blob/753da078f2acd2362fe69dbb16b18e9227ad49e2/Transcript.pdf) (May 2022) (Hofstra University)<br>
+- [Bloomberg Market Concepts (BMC)](https://portal.bloombergforeducation.com/certificates/saaCPkA6SZVYcQzUNeapSWLj) (May 2020) (Bloomberg)<br>
 - [R For Data Science](https://www.udemy.com/certificate/UC-63208765-f4cf-43c1-b77e-f02755207c44/) (Dec 2021) (Udemy) <br>
 
 **Status:** ∞ 
