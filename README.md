@@ -84,6 +84,14 @@ In this section I will list data analytics projects briefly describing the techn
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
+### Basic Python Code
+
+**Description:** This is the basic Python code I put together, they are pieces I learned from various sources during my learning process. 
+
+**Repository:** Topics covered: Numbers, Functions, Variable Assignments, Strings, Lists, Sorting, Dicts, Files, Regular Expressions, Utilities, Urllib, and lot more. ---> [go to repo..](https://github.com/Jing0831/Python_code.git)  
+
+**Status:** ∞ 
+
 ### Kaggle 30 Days of ML
 **Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
 **Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/nktnlx/kaggle_30_Days_of_ML)  
@@ -114,10 +122,7 @@ In this section I will provide links to my github repositories containing code a
 **Repository:** Although the career path has been already completed the repository is still under development, having only 9 listed projects including: words statistics calculator, English nouns pluralizer, English verbs conjugation, censor engine, etc. ---> [go to repo..](https://github.com/nktnlx/cs_path_codecademy)  
 **Status:** Completed in July 2020 (please, check the certificates section below).  
 
-### Google Python Class
-**Description:** This is a free class for people with a little bit of programming experience who want to learn Python by [Google](https://developers.google.com/edu/python). Topics covered: strings, lists, sorting, dicts, files, regular expressions, utilities, urllib.  
-**Repository:** Containing 10 cool projects including: mimicking random text generator, baby-names popularity counter (based on data from The Social Security administration US), etc. ---> [go to repo..](https://github.com/nktnlx/google_python_class)  
-**Status:** Completed in November 2020.  
+
 
 ### Side Projects
 **Description:** Side projects and various code snippets I'm having fun with.  
