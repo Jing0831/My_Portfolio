@@ -12,7 +12,7 @@ HAPPY CODING!
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [ETH and S&P 500 Clustering Analysis](#eth-and-s&p-500-clustering-analysis)
+	+ [ETH and S&P 500 Clustering Analysis](#eth-and-sp-500-clustering-analysis)
 	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
