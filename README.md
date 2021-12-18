@@ -13,7 +13,8 @@
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [ETH and S&P 500 Clustering Analysis](#eth-and-sp-500-clustering-analysis)
-- [Study Projects](#study-projects)  
+- [Study Projects](#study-projects)
+        + [ACCT and Financial Reporting](#acct-and-financial-reporting)  
 	+ [Basic Python Code](#basic-python-code)
 	+ [Side Projects](#side-projects)
 - [Tableau Vizzes](#tableau-vizzes)
@@ -39,6 +40,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+
+### ACCT and Financial Reporting
+**Description:** This repository contains the course materials and my final exam on the CVS Annual Financial Report for a 5 month ACCT and Fiancial Reporting course.<br>
+**Repository:** A comprehensive overview of the basic financial statements and how they and other accounting information are utilized for managerial decision making in a global economy. Topics include, but are not limited to, financial reporting and analysis, profit analysis, planning and forecasting, and cost control.  Environmental factors and ethical implications are integrated throughout the course.---> [go to repo..](https://github.com/Jing0831/ACCT-and-Financial-Reporting.git)<br> 
+**Status:** Completed in Fall 2019
 
 ### Basic Python Code
 **Description:** This is the basic Python code I put together, they are pieces I learned from various sources during my learning process. 
