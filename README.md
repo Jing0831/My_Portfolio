@@ -1,18 +1,18 @@
-# Aleksandr Nikitin - Data Analysis Portfolio 
+# Jingyi Wang - Data Analysis Portfolio 
 
 ## About
 
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Saint Petersburg Mining University), majoring in Seismic Data Processing and Analysis. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. After one year of transition from geoscience to Data Analysis, I'm Data Analyst in a Fintech company now.    
-I have recently achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
+Hi, I'm Jingyi! I have a solid banking background and hold a Master of Science (M.S.) degree in Business Statistics, as well as an MBA degree in Information Systems (Hofstra University). I deeply appreciate the value of data analysis in my daily work, especially in formulating sales strategies, as well as evident-based management. I am always motivated and eager to learn everything!
 <br>
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
+HAPPY CODING!
 <br>
   
 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
+	+ [ETH and S&P 500 Clustering Analysis](#eth-and-s&p-500-clustering-analysis)
 	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
@@ -26,14 +26,14 @@ This is a repository that I have created to showcase skills, share projects and 
 	+ [Computer Science Career Path](#computer-science-career-path)
 	+ [Google Python Class](#google-python-class)
 	+ [Side Projects](#side-projects)
-	+ [Tableau Vizzes](#tableau-vizzes)
+- [Tableau Vizzes](#tableau-vizzes)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Video Games Sales Analysis
+### ETH and S&P 500 Clustering Analysis
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
 **Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
@@ -115,8 +115,8 @@ In this section I will provide links to my github repositories containing code a
 **Repository:** pull-ups ladder calculator, motivational bad habits tracker, my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests, applications to internships, [Google Sheets Course by Yandex Praktikum](https://practicum.yandex.ru/excel-for-work/), etc. ---> [go to repo..](https://github.com/nktnlx/side_projects)  
 **Status:** ∞  
 
-### Tableau Vizzes
-**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/profile/nktn.lx#!/)  
+## Tableau Vizzes
+**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/wjingyi)  
 **Status:** ∞  
 
 ## Certificates
