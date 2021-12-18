@@ -143,7 +143,5 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
 
 ## Contacts
-- LinkedIn: [@nktnlx](https://www.linkedin.com/in/nktnlx)
-- Telegram: [@nktnlx](https://t.me/nktnlx)
-- Twitter: [@nktn_lx](https://twitter.com/nktn_lx)
-- E-mail: nktn.lx@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jingyi-wang-0228/
+- E-mail: jingyiw0831@gmail.com
