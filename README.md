@@ -69,6 +69,8 @@ I gained a very systematic knowledge of statistics and analytical skills and gra
 - [My Transcript for MBA(Information Systems) and MS(Business Statistics](https://github.com/Jing0831/My_Portfolio/blob/753da078f2acd2362fe69dbb16b18e9227ad49e2/Transcript.pdf) (May 2022) (Hofstra University)<br>
 - [Bloomberg Market Concepts (BMC)](https://portal.bloombergforeducation.com/certificates/saaCPkA6SZVYcQzUNeapSWLj) (May 2020) (Bloomberg)<br>
 - [R For Data Science](https://www.udemy.com/certificate/UC-63208765-f4cf-43c1-b77e-f02755207c44/) (Dec 2021) (Udemy) <br>
+- [SQL Essential Training](https://www.linkedin.com/learning/certificates/86825e18ea1e2b87826f3961dab2aba022bbc2ab21481a03ad9ebf38fbd37796?trk=share_certificate) (Dec 2021) (LinkedIn Learning)<br>
+- [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/certificates/f866bfde96069d829c462124e1f8465686326ad5e6aadc3165530dfafb949d99?trk=share_certificate) (Dec 2021) (LinkedIn Learning)<br>
 
 **Status:** ∞ 
 
