@@ -14,7 +14,8 @@
 - [Portfolio Projects](#portfolio-projects)
 	+ [ETH and S&P 500 Clustering Analysis](#eth-and-sp-500-clustering-analysis)
 - [Study Projects](#study-projects)<br>
-	+ [ACCT and Financial Reporting](#acct-and-financial-reporting)  
+	+ [ACCT and Financial Reporting](#acct-and-financial-reporting)
+	+ [SQL and Database Management Systems](#sql-and-database-management-systems)  
 	+ [Basic Python Code](#basic-python-code)
 	+ [Side Projects](#side-projects)
 - [Tableau Vizzes](#tableau-vizzes)
@@ -45,6 +46,11 @@ In this section I will provide links to my github repositories containing code a
 **Description:** This repository contains the course materials and my final exam on the CVS Annual Financial Report for a 5 month ACCT and Fiancial Reporting course.<br>
 **Repository:** This course is a comprehensive overview of the basic financial statements and how they and other accounting information are utilized for managerial decision making in a global economy. Topics include, but are not limited to, financial reporting and analysis, profit analysis, planning and forecasting, and cost control.  Environmental factors and ethical implications are integrated throughout the course.---> [go to repo..](https://github.com/Jing0831/ACCT-and-Financial-Reporting.git)<br> 
 **Status:** Completed in Fall 2019
+
+### SQL and Database Management Systems
+**Description:** This repository is for SQL exercises done by me while learning SQL on various platforms and courses.<br>
+**Repository:** Related courses include: SQL Essential Training, Database Management Systems, Advanced SQL for Query Tuning and Performance Optimization, SQL Module, SQL Bolt.Hope this repo will help you to assess my SQL skills or will be just fun for you to look through. ---> [go to repo..](https://github.com/Jing0831/SQL-and-Database-Management-Systems.git)<br>
+**Status:** ∞ 
 
 ### Basic Python Code
 **Description:** This is the basic Python code I put together, they are pieces I learned from various sources during my learning process. 
