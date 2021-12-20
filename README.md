@@ -77,7 +77,7 @@ I gained a very systematic knowledge of statistics and analytical skills and gra
 - [R For Data Science](https://www.udemy.com/certificate/UC-63208765-f4cf-43c1-b77e-f02755207c44/) (Dec 2021) (Udemy) <br>
 - [SQL Essential Training](https://www.linkedin.com/learning/certificates/86825e18ea1e2b87826f3961dab2aba022bbc2ab21481a03ad9ebf38fbd37796?trk=share_certificate) (Dec 2021) (LinkedIn Learning)<br>
 - [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/certificates/f866bfde96069d829c462124e1f8465686326ad5e6aadc3165530dfafb949d99?trk=share_certificate) (Dec 2021) (LinkedIn Learning)<br>
-- [Data-Driven Project Management: Project Mextrics That Matter](https://www.linkedin.com/learning/certificates/8e0552f9ad9dc14bcf4de4bec481431e38ce4a1711d35a4f2fd0d20a01d8261b?trk=share_certificate)<br>
+- [Data-Driven Project Management: Project Mextrics That Matter](https://www.linkedin.com/learning/certificates/8e0552f9ad9dc14bcf4de4bec481431e38ce4a1711d35a4f2fd0d20a01d8261b?trk=share_certificate)(Dec 2021) (LinkedIn Learning)<br>
 
 **Status:** ∞ 
 
