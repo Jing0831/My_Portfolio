@@ -29,7 +29,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### ETH and S&P 500 Clustering Analysis
 
 **Description:** For this Python based project, I collected historical trading data for S&P 500 companies and ETH-USD, and filtered 10,000 twitter posts, containing the words "ETH", "Ethereum". The project includes the following steps: collecting data,explore data, modify variables, setup model, and evaluate model. My hypothesis is that companies that are highly correlated will be affected by the same possitive or negative market information, and thus they should converge in market performance. I hope to find these companies.<br>
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)<br>
+**Code:** [`ETH_SP500_Clustering_Code.ipynb`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/fb78584c5149313bcc2401501600e9212c607403/ETH_SP500_Clustering_Code.ipynb) <br>
 **Presentation:** [`My Presentation for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Presentation_JY.pdf)<br>
 **Report:**
            [`My Report for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Report_JY.pdf)
@@ -77,6 +77,7 @@ I gained a very systematic knowledge of statistics and analytical skills and gra
 - [R For Data Science](https://www.udemy.com/certificate/UC-63208765-f4cf-43c1-b77e-f02755207c44/) (Dec 2021) (Udemy) <br>
 - [SQL Essential Training](https://www.linkedin.com/learning/certificates/86825e18ea1e2b87826f3961dab2aba022bbc2ab21481a03ad9ebf38fbd37796?trk=share_certificate) (Dec 2021) (LinkedIn Learning)<br>
 - [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/certificates/f866bfde96069d829c462124e1f8465686326ad5e6aadc3165530dfafb949d99?trk=share_certificate) (Dec 2021) (LinkedIn Learning)<br>
+- [Data-Driven Project Management: Project Mextrics That Matter](https://www.linkedin.com/learning/certificates/8e0552f9ad9dc14bcf4de4bec481431e38ce4a1711d35a4f2fd0d20a01d8261b?trk=share_certificate)<br>
 
 **Status:** ∞ 
 
