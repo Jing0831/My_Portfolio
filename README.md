@@ -80,6 +80,7 @@ I gained a very systematic knowledge of statistics and analytical skills and gra
 - [Data-Driven Project Management: Project Mextrics That Matter](https://www.linkedin.com/learning/certificates/8e0552f9ad9dc14bcf4de4bec481431e38ce4a1711d35a4f2fd0d20a01d8261b?trk=share_certificate)(Dec 2021) (LinkedIn Learning)<br>
 - [Social Media Marketing Foundations](https://www.linkedin.com/learning/certificates/22f3928bac8ff15cf8701e4991dc548945e68b5abf796a38784002f451c21945?trk=share_certificate)(Dec 2021) (LinkedIn Learning)<br>
 - [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/zxJWzd0sQrGOK8IM8m67QQ)(Jan 2022) (Google)<br>
+- [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/f2yMQc7HaVou5oq6hrjisV6h)(Jan 2022) (Google)<br>
 **Status:** ∞ 
 
 
