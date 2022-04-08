@@ -14,6 +14,7 @@
 - [Portfolio Projects](#portfolio-projects)
 	+ [ETH and S&P 500 Clustering Analysis](#eth-and-sp-500-clustering-analysis)
 - [Study Projects](#study-projects)<br>
+	+ [Web Analytics for Business](#web-analytics-for-business)
 	+ [ACCT and Financial Reporting](#acct-and-financial-reporting)
 	+ [SQL and Database Management Systems](#sql-and-database-management-systems)  
 	+ [Basic Python Code](#basic-python-code)
@@ -41,6 +42,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+
+### Web Analytics for Business
+**Description:** My study for a variety of topics and techniques in the area of web analytics. <br>
+**Repository:** The repository focuses on web data structure/contents/usage, data acquisition from web platform, transformation of unstructured web data into structured data format, analysis of web data using data mining techniques such as classification/clustering/association, sentiment analysis for business decisions, and visualization of unstructured data.---> [go to repo..](https://github.com/Jing0831/Web-Scraping.git)<br> 
+**Status:** ∞ 
 
 ### ACCT and Financial Reporting
 **Description:** This repository contains the course materials and my final exam on the CVS Annual Financial Report for a 5 month ACCT and Fiancial Reporting course.<br>
